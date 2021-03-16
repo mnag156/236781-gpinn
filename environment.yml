@@ -1,0 +1,11 @@
+name: gpinn
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - scipy
+  - tqdm
+  - pytorch
+  - tensorboard
